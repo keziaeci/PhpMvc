@@ -1,0 +1,3 @@
+Catatan
+9 jan 23
+model => bisa untuk kirim data supaya ga melalui link, tapi bisa juga berisi objek domain / service ( pokoknya bisnis logic dari sebuah projek, unutk mengolah data )
